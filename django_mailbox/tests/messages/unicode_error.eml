@@ -1,0 +1,47 @@
+Received: from mxfront40.mail.yandex.net ([127.0.0.1])
+    by mxfront40.mail.yandex.net with LMTP id 1kYaj2Z0
+    for <mr.test32@yandex.ru>; Mon, 21 Apr 2014 17:01:46 +0400
+Received: from f284.i.mail.ru (f284.i.mail.ru [217.69.138.184])
+    by mxfront40.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id 5ybtvC8EjR-1k5qERXS;
+    Mon, 21 Apr 2014 17:01:46 +0400
+    (using TLSv1 with cipher AES256-SHA (256/256 bits))
+    (Client certificate not present)
+X-Yandex-Front: mxfront40.mail.yandex.net
+X-Yandex-TimeMark: 1398085306
+X-Yandex-Uniq: 048ae9ee-4930-499b-803d-4e7c7dd64da5
+Authentication-Results: mxfront40.mail.yandex.net; spf=pass (mxfront40.mail.yandex.net: domain of mail.ru designates 217.69.138.184 as permitted sender) smtp.mail=mr.test32@mail.ru; dkim=pass header.i=@mail.ru
+X-Yandex-Spam: 1
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+    h=Content-Type:Message-ID:Reply-To:Date:Mime-Version:Subject:To:From; bh=oJMg2fPrmKvsyMXib8I9eF7JpnqtQmXIK5Ve6pwFXSI=;
+    b=VG3S4nAtfFv+yQMf1Ubtb4y29mTOQL73foRmudvkAdAaPhRjFb+84OspikmmFKbK+jRfanFWkXjQWa9B72uK7d8F4NsO3e9a+MffXcMtsz9AgmFe72Af7sQrXiqkwmUGeG/TQtPjR5E/gi3IHFrHFQD+apER59c8AlqEoQLvrRg=;
+Received: from mail by f284.i.mail.ru with local (envelope-from <mr.test32@mail.ru>)
+    id 1WcDr0-0006oa-11
+    for mr.test32@yandex.ru; Mon, 21 Apr 2014 17:01:46 +0400
+Received: from [144.206.32.69] by e.mail.ru with HTTP;
+    Mon, 21 Apr 2014 17:01:45 +0400
+From: =?UTF-8?B?dGVzdCB0ZXN0?= <mr.test32@mail.ru>
+To: mr.test32@yandex.ru
+Subject: Óçíàé êàê çàðàáàòûâàòü îò 1000$ â íåäåëþ!
+Mime-Version: 1.0
+X-Mailer: Mail.Ru Mailer 1.0
+X-Originating-IP: [144.206.32.69]
+Date: Mon, 21 Apr 2014 17:01:45 +0400
+Reply-To: =?UTF-8?B?dGVzdCB0ZXN0?= <mr.test32@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1398085305.929400886@f284.i.mail.ru>
+Content-Type: multipart/alternative;
+    boundary="--ALT--ydoLnojf1398085305"
+X-Mras: Ok
+X-Spam: undefined
+Return-Path: mr.test32@mail.ru
+X-Yandex-Forward: 9ab52542add9f65bafe0dbdcfc49514a
+
+--------------030708000302000507020500
+Content-Type: application/octet-stream;
+ name="=?windows-1251?Q?=CC=E8=EA=F0=EE=F4=EE=ED=2Ejpg?="
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename*=windows-1251''%CC%E8%EA%F0%EE%F4%EE%ED%2E%6A%70%67
+
+666
+--------------030708000302000507020500--
